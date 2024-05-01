@@ -1,5 +1,5 @@
 <h1>Salman Murtaza, a self-taught front-end developer.</h1>
-<p>Primarily, focusing on building UIs manually simply by using HTML5, CSS3 AND JAVASCRIPT</p>
+<p>Primarily, focusing on building (user interfaces)UIs manually simply by using HTML5, CSS3(with it's preprocessor SASS) AND JAVASCRIPT(with advance ES features.)</p>
 <p>Ever since I start coding, I love to create stunning User Interfaces(UIs) that are beautifully designed for all screen sizes and catch the user attention.</p>
 <P>You can also visit my <a href='https://salmanthedev.netlify.app' target='_blank'>portfolio site</a></P>
 <p>Below is the showcase of my projects</p>
